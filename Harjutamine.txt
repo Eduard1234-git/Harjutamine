@@ -6,3 +6,5 @@ Kes kasutab GitHubi
 🏢 Ettevõtted (Google, Microsoft, Yandex jne)
 🌍 Avatud lähtekoodiga kogukonnad
 📊 Analüütikud, DevOps ja andmeteadlased ei ole lihtsalt programmeerijad
+
+Edaspidi saad GitHubit kasutada koodihoidlana, et hallata ja jagada oma projekte ning teha koostööd teiste arendajatega.
