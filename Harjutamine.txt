@@ -1,1 +1,8 @@
+GitHub on veebipõhine platvorm koodi salvestamiseks ja projektide koostööks, mis põhineb Git versioonihaldussüsteemil.
 
+Kes kasutab GitHubi 
+💻 Programmeerijad (algajatest professionaalideni)
+🎓 Programmeerimist õppivad tudengid
+🏢 Ettevõtted (Google, Microsoft, Yandex jne)
+🌍 Avatud lähtekoodiga kogukonnad
+📊 Analüütikud, DevOps ja andmeteadlased ei ole lihtsalt programmeerijad
