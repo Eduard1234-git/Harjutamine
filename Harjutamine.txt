@@ -6,3 +6,11 @@ Kes kasutab GitHubi
 🏢 Ettevõtted (Google, Microsoft, Yandex jne)
 🌍 Avatud lähtekoodiga kogukonnad
 📊 Analüütikud, DevOps ja andmeteadlased ei ole lihtsalt programmeerijad
+
+Edaspidi saad GitHubit kasutada koodihoidlana, et hallata ja jagada oma projekte ning teha koostööd teiste arendajatega.
+
+
+kus tulevikus Githubi kasutada:
+💻 IT ja programmeerimine Kõige ilmsem suund: Veebilehe ja mobiilirakenduste arendus Mängud ja lauaarvutiprogrammid DevOps, automatiseerimine, CI/CD avatud lähtekoodiga projektid (saad osaleda rahvusvahelistes meeskondades) 
+👉 GitHub saab olema peaaegu kõigi arendajate jaoks hädavajalik tööriist. 
+🤖 Tehisintellekt ja andmeteadus ML/AI mudelite salvestamine ja arendamine Andmetega katsetamine Koostöö algoritmidega Avalda uuringuid ja hoidlaid Paljud tööandjad näevad GitHubi kui oskuste portfooliot.
